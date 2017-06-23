@@ -1,0 +1,24 @@
+{
+  "name": "okit",
+  "version": "0.0.1",
+  "description": "Javascript Object Swiss Army Knife, the Kit and Tools lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/futurist/okit.git"
+  },
+  "keywords": [
+    "object",
+    "kit",
+    "tool"
+  ],
+  "author": "James Yang <jamesyang999@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/futurist/okit/issues"
+  },
+  "homepage": "https://github.com/futurist/okit#readme"
+}
